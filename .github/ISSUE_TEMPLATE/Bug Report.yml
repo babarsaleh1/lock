@@ -13,7 +13,7 @@ body:
       value: |
         :warning: **Note:** We are no longer supporting requests for new features. Only requests for bug fixes or security patches will be considered.
 
-  - type: checkboxes
+  - type: checkboxes,
     id: checklist
     attributes:
       label: Checklist
